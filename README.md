@@ -1,0 +1,1 @@
+This source is a Spring Boot application that facilitates the creation, management, and generation of digital card inscription forms. The application allows users to fill out a form with details such as name, contact information, and social media profiles. It includes features for generating QR codes, downloading profiles in VCF (vCard) format, and managing form entries.
